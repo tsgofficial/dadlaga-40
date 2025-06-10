@@ -33,11 +33,3 @@
 
 **Гаралт:**
 2
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo18
-| | ├── FraudulentActivity.java
-| | └── README.md

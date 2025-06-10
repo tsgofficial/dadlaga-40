@@ -43,11 +43,3 @@ OOO...O
 ..OO.OO
 ...OOOO
 ...OOOO
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo13
-| | ├── BomberMan.java
-| | └── README.md

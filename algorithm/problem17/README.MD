@@ -35,11 +35,3 @@
 
 **Гаралт:**
 . . cd gh
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo17
-| | ├── CountingSort.java
-| | └── README.md

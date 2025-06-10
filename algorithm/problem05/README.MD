@@ -34,13 +34,3 @@ obstacles = [[5, 5], [4, 2], [2, 3]]
 
 **Гаралт:**
 10
-
-## Директор бүтэц
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo05
-| | ├── QueensAttack.java
-| | └── README.md

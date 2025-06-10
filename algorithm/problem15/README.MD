@@ -41,11 +41,3 @@
 YES
 YES
 NO
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo15
-| | ├── Array.java
-| | └── README.md

@@ -25,7 +25,7 @@
 
 ## Холбоос
 
-- [HackerRank - Kindergarten Adventures](https://www.hackerrank.com/challenges/kindergarten-adventures)
+- [HackerRank - Kindergarten Adventures](https://www.hackerrank.com/challenges/array-pairs)
 
 ## Жишээ
 

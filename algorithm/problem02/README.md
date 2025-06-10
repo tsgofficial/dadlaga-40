@@ -41,11 +41,3 @@ player: [50, 65, 77, 90, 102]
 1
 
 Alice 102 оноо авсан нь хамгийн өндөр оноо учраас 1-р байр, 50 оноо нь хамгийн доод байранд орно.
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo02
-| | ├── ClimbingTheLeaderboard.java
-| | └── README.md

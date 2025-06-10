@@ -36,11 +36,3 @@ no answer
 hegf
 dhkc
 hcdk
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo08
-| | ├── BiggerIsGreater.java
-| | └── README.md

@@ -43,11 +43,3 @@ Possible
 
 **Гаралт:**
 Impossible
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo06
-| | ├── OrganizingContainer.java
-| | └── README.md

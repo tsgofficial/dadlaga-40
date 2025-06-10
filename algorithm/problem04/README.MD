@@ -46,13 +46,3 @@ k = 4
 3
 
 Жишээ дэд олонлог: `[19, 25, 22]`
-
----
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo04
-| | ├── NonDivisibleSubset.java
-| | └── README.md

@@ -30,11 +30,3 @@
 
 **Гаралт:**
 2
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo19
-| | ├── Homework.java
-| | └── README.md

@@ -34,11 +34,3 @@
 
 **Гаралт:**
 32
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo11
-| | ├── SurfaceArea3D.java
-| | └── README.md

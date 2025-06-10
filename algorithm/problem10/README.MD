@@ -45,11 +45,3 @@ P = [
 YES
 
 Жижиг grid `P` нь `G` дотор яг ижил байрлалтайгаар оршиж байгаа тул `"YES"` гэж буцна.
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo10
-| | ├── TheGridSearch.java
-| | └── README.md

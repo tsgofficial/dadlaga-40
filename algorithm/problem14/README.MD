@@ -38,11 +38,3 @@ GGGGGG
 
 **Гаралт:**
 45
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo14
-| | ├── DoublePlus.java
-| | └── README.md

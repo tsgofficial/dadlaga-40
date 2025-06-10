@@ -26,7 +26,7 @@
 
 ## Холбоос
 
-- [HackerRank - Cycle Detection](https://www.hackerrank.com/challenges/detect-a-cycle-in-a-linked-list)
+- [HackerRank - Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle)
 
 ## Жишээ
 

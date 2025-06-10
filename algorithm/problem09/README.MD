@@ -36,11 +36,3 @@ twenty eight minutes past five
 
 **Гаралт:**
 quarter to six
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo09
-| | ├── TimeInWords.java
-| | └── README.md

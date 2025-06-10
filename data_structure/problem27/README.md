@@ -21,7 +21,7 @@
 
 ## Холбоос
 
-- [HackerRank - Arrays](https://www.hackerrank.com/domains/data-structures/arrays)
+- [HackerRank - Arrays](https://www.hackerrank.com/challenges/arrays-ds)
 
 ## Жишээ
 

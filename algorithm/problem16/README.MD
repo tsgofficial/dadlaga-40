@@ -37,11 +37,3 @@
 **Гаралт:**
 yes
 reverse 2 5
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo16
-| | ├── AlmostSorted.java
-| | └── README.md

@@ -43,9 +43,3 @@ haveaniceday
 
 **Гаралт:**
 hae and via ecy
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo07
-| | ├── Encryption.java
-| | └── README.md

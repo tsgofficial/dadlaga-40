@@ -32,11 +32,3 @@ aabbccddeefghi
 
 **Гаралт:**
 NO
-
-## Директор бүтэц
-
-HackerRank
-├── Algorithm
-| ├── Bodlogo20
-| | ├── SherlockValidString.java
-| | └── README.md
